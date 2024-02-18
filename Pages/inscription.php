@@ -12,7 +12,6 @@ if (isset($_POST['Inscription'])) {
     $matricule = addslashes($_POST['matricule']);
     $nom = addslashes($_POST['nom']);
     $prenom = addslashes($_POST['prenom']);
-    $nom_utilisateur = addslashes($_POST['nom_utilisateur']);
     $mot_de_passe = md5(addslashes($_POST['mot_de_passe']));
 
 
@@ -24,8 +23,8 @@ if (isset($_POST['Inscription'])) {
 
 if ($nombre == 0) {
     //insertion
-    $sql = "INSERT INTO utilisateurs (matricule,nom, prenom,nom_utilisateur,mot_de_passe,date_inscription,heure_inscription)
-       VALUES ('$matricule','$nom', '$prenom','$nom_utilisateur', '$mot_de_passe','$date_inscription','$heure_inscription')";
+    $sql = "INSERT INTO utilisateurs (matricule,nom, prenom,mot_de_passe,date_inscription,heure_inscription)
+       VALUES ('$matricule','$nom', '$prenom','$mot_de_passe','$date_inscription','$heure_inscription')";
 
     if (mysqli_query($conn, $sql)) {
       echo("
@@ -109,9 +108,6 @@ input[type="reset"]:hover,input[type="submit"]:hover{
         <td>Prénom</td><td><input type="text" name="prenom" id="" require></td>
     </tr>
     
-    <tr>
-        <td>Nom d'utilisateur</td><td><input type="text" name="nom_utilisateur" id="" require></td>
-    </tr>
     <tr>
         <td>Mot de passe</td><td><input type="password" name="mot_de_passe" id="" require></td>
     </tr>

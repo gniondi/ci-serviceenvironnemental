@@ -62,11 +62,11 @@ echo'<div class="alert alert-warning alert-dismissible fade show" role="alert">
                         <td>Actions</td>
                       </tr>
                     <?php
-                    $i=0;
+                    $i=1;
                     while($row = mysqli_fetch_array($result)) {
                     ?>
                     <tr>
-                        <td><?php echo $row["Id"]; ?></td>
+                        <td><?php echo $i;?></td>
                         <td><?php echo $row["Nom_projet"]; ?></td>
                         <td><?php echo $row["District"]; ?></td>
                         <td><?php echo $row["Region"]; ?></td>

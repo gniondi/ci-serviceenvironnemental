@@ -1,6 +1,7 @@
 
 
 <?php
+
 if(isset($_SESSION["id_utilisateur"])){
     $id_session_sauv = $_SESSION["id_utilisateur"];
     //Information utilisateurs
@@ -12,7 +13,6 @@ if(isset($_SESSION["id_utilisateur"])){
     $matricule = $row['matricule'];
     $nom = $row['nom'];
     $prenom = $row['prenom'];
-    $nom_utilisateur = $row['nom_utilisateur'];
     $date_inscription = $row['date_inscription'];
     $heure_inscription = $row['heure_inscription'];
 

@@ -196,51 +196,51 @@ text-decoration: underline; paddin: top 24px; margin-top: 20px;"><center>Formula
                 <option value="Abengourou">Abengourou</option>
                 <option value="Abidjan">Abidjan</option>
                 <option value="Aboisso">Aboisso</option>
-                <option value="Adiake">Adiaké</option>
-                <option value="Adzope">Adzopé</option>
+                <option value="Adiaké">Adiaké</option>
+                <option value="Adzopé">Adzopé</option>
                 <option value="Agboville">Agboville</option>
                 <option value="Agnibilekrou">Agnibilékrou</option>
-                <option value="Akoupe">Akoupé</option>
-                <option value="Alepe">Alépé</option>
+                <option value="Akoupé">Akoupé</option>
+                <option value="Alépé">Alépé</option>
                 <option value="Arrah">Arrah</option>
-                <option value="Attiegouakro">Attiégouakro</option>
+                <option value="Attiégouakro">Attiégouakro</option>
                 <option value="Bangolo">Bangolo</option>
-                <option value="Beoumi">Béoumi</option>
-                <option value="Bettie">Bettié</option>
+                <option value="Béoumi">Béoumi</option>
+                <option value="Bettié">Bettié</option>
                 <option value="Biankouma">Biankouma</option>
-                <option value="Blolequin">Bloléquin</option>
+                <option value="Bloléquin">Bloléquin</option>
                 <option value="Bocanda">Bocanda</option>
                 <option value="Bondoukou">Bondoukou</option>
                 <option value="Bongouanou">Bongouanou</option>
                 <option value="Bonon">Bonon</option>
                 <option value="Botro">Botro</option>
-                <option value="Bouafle">Bouaflé</option>
-                <option value="Bouake">Bouaké</option>
+                <option value="Bouaflé">Bouaflé</option>
+                <option value="Bouaké">Bouaké</option>
                 <option value="Bouna">Bouna</option>
                 <option value="Boundiali">Boundiali</option>
                 <option value="Buyo">Buyo</option>
                 <option value="Dabakala">Dabakala</option>
                 <option value="Dabou">Dabou</option>
                 <option value="Daloa">Daloa</option>
-                <option value="Danane">Danané</option>
+                <option value="Danané">Danané</option>
                 <option value="Daoukro">Daoukro</option>
                 <option value="Dianra">Dianra</option>
-                <option value="Didievi">Didiévi</option>
+                <option value="Didiévi">Didiévi</option>
                 <option value="Dikodougou">Dikodougou</option>
                 <option value="Dimbokro">Dimbokro</option>
                 <option value="Divo">Divo</option>
-                <option value="Djekanou">Djékanou</option>
+                <option value="Djékanou">Djékanou</option>
                 <option value="Doropo">Doropo</option>
-                <option value="Duekoue">Duékoué</option>
+                <option value="Duékoué">Duékoué</option>
                 <option value="Facobly">Facobly</option>
-                <option value="Ferkessedougou">Ferkessédougou</option>
+                <option value="Ferkessédougou">Ferkessédougou</option>
                 <option value="Fresco">Fresco</option>
                 <option value="Gagnoa">Gagnoa</option>
-                <option value="Gbeleban">Gbéléban</option>
+                <option value="Gbéléban">Gbéléban</option>
                 <option value="Gohitafla">Gohitafla</option>
                 <option value="Grand-Bassam">Grand-Bassam</option>
                 <option value="Grand-Lahou">Grand-Lahou</option>
-                <option value="Gueyo">Guéyo</option>
+                <option value="Guéyo">Guéyo</option>
                 <option value="Guiglo">Guiglo</option>
                 <option value="Guitry">Guitry</option>
                 <option value="Issia">Issia</option>
@@ -257,53 +257,53 @@ text-decoration: underline; paddin: top 24px; margin-top: 20px;"><center>Formula
                 <option value="Koun-Fao">Koun-Fao</option>
                 <option value="Kouto">Kouto</option>
                 <option value="Lakota">Lakota</option>
-                <option value="MBahiakro">M’Bahiakro</option>
-                <option value="MBatto">M’Batto</option>
-                <option value="MBengue">M’Bengué</option>
+                <option value="M'Bahiakro">M’Bahiakro</option>
+                <option value="M'Batto">M’Batto</option>
+                <option value="M'Bengué">M’Bengué</option>
                 <option value="Madinani">Madinani</option>
                 <option value="Man">Man</option>
                 <option value="Mankono">Mankono</option>
-                <option value="Meagui">Méagui</option>
+                <option value="Méagui">Méagui</option>
                 <option value="Minignan">Minignan</option>
                 <option value="Nassian">Nassian</option>
                 <option value="Niakaramadougou">Niakaramadougou</option>
-                <option value="Odienne">Odienné</option>
+                <option value="Odienné">Odienné</option>
                 <option value="Ouangolodougou">Ouangolodougou</option>
                 <option value="Ouaninou">Ouaninou</option>
-                <option value="Ouelle">Ouellé</option>
-                <option value="Oume">Oumé</option>
+                <option value="Ouellé">Ouellé</option>
+                <option value="Oumé">Oumé</option>
                 <option value="Prikro">Prikro</option>
                 <option value="Sakassou">Sakassou</option>
                 <option value="Samatiguila">Samatiguila</option>
-                <option value="Sandegue">Sandégué</option>
-                <option value="San-Pedro">San-Pédro</option>
+                <option value="Sandégué">Sandégué</option>
+                <option value="San-Pédro">San-Pédro</option>
                 <option value="Sassandra">Sassandra</option>
-                <option value="Seguela">Séguéla</option>
-                <option value="Seguelon">Séguélon</option>
+                <option value="Séguéla">Séguéla</option>
+                <option value="Séguélon">Séguélon</option>
                 <option value="Sikensi">Sikensi</option>
-                <option value="Sinematiali">Sinématiali</option>
+                <option value="Sinématiali">Sinématiali</option>
                 <option value="Sinfra">Sinfra</option>
                 <option value="Sipilou">Sipilou</option>
-                <option value="Soubre">Soubré</option>
+                <option value="Soubré">Soubré</option>
                 <option value="Taabo">Taabo</option>
                 <option value="Tabou">Tabou</option>
                 <option value="Taï">Taï</option>
                 <option value="Tanda">Tanda</option>
-                <option value="Tehini">Téhini</option>
-                <option value="Tengrela">Tengréla</option>
+                <option value="Téhini">Téhini</option>
+                <option value="Tengréla">Tengréla</option>
                 <option value="Tiapoum">Tiapoum</option>
-                <option value="Tiassale">Tiassalé</option>
-                <option value="Tiebissou">Tiébissou</option>
+                <option value="Tiassalé">Tiassalé</option>
+                <option value="Tiébissou">Tiébissou</option>
                 <option value="Touba">Touba</option>
                 <option value="Toulepleu">Toulepleu</option>
                 <option value="Toumodi">Toumodi</option>
                 <option value="Transua">Transua</option>
                 <option value="Vavoua">Vavoua</option>
-                <option value="Yakasse-Attobrou">Yakassé-Attobrou</option>
+                <option value="Yakassé-Attobrou">Yakassé-Attobrou</option>
                 <option value="Yamoussoukro">Yamoussoukro</option>
                 <option value="Zouan-Hounien">Zouan-Hounien</option>
                 <option value="Zoukougbeu">Zoukougbeu</option>
-                <option value="Zuenoula">Zuénoula</option>
+                <option value="Zuénoula">Zuénoula</option>
                 
             </select>
         </td>
@@ -360,7 +360,9 @@ text-decoration: underline; paddin: top 24px; margin-top: 20px;"><center>Formula
     </table>
    
 </form>
+
 </center>
+
 </body>
 
 <footer></footer>
